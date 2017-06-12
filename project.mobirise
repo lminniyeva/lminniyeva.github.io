@@ -73,8 +73,8 @@
             "showArrow": true
           },
           "title": "Pitch on the Beach",
-          "text": "Tech communities emerge on a daily basis. However, not everyone is able to keep up with these changes. How to make  developers and entrepreneurs listen to the needs of customer in a more sustainable calm manner?<br><br>“Pitch on the beach” aims to create a sense of freedom, make the dreams come true and build learning productive business relationships. <br>Join our 1st edition in the Netherlands or tune in via podcast<br><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\"><br></span><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\">PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Pre order tickets\" data-toolbar=\"-mbrBtnMove\">PRE-ORDER TICKETS</a>"
+          "text": "Tech communities emerge on a daily basis. However, not everyone is able to keep up with these changes. How to make  developers and entrepreneurs listen to the needs of customer in a more sustainable calm manner?<br><br>“Pitch on the beach” aims to create a sense of freedom, make the dreams come true and build learning productive business relationships. <br>Join our 1st edition in the Netherlands or tune in via podcast<br><span style=\"line-height: 1.5;\"><br></span><br>",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\">PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Pre order tickets\" data-toolbar=\"-mbrBtnMove\">PRE-ORDER TICKETS</a>"
         },
         {
           "_inherit": "dropdown-menu",
