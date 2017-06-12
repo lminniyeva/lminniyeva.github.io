@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "index.html",
+    "currentPage": "Contact us",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -186,7 +186,7 @@
           },
           "title": "Pitch form",
           "form": {
-            "action": "l.minniyeva@gmail.com",
+            "action": "pitchonthebeach@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form! And we are looking forward to see and hear your Pitch on the Beach!"
             },
@@ -243,7 +243,7 @@
           },
           "title": "Pre-order tickets for only 10 €",
           "form": {
-            "action": "l.minniyeva@gmail.com",
+            "action": "pitchonthebeach@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -350,7 +350,7 @@
           },
           "title": "Contact Form",
           "form": {
-            "action": "l.minniyeva@gmail.com",
+            "action": "pitchonthebeach@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
