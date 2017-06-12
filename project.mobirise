@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "NewSite-06-11_2102",
-    "currentPage": "index.html",
+    "currentPage": "Sign up",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -61,41 +61,7 @@
           },
           "title": "PITCH ON THE BEACH<br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP AND PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PRE-ORDER TICKETS</a>"
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_anchor": "content5-2",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.7,
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "Our story",
-          "caption": "<p>Inspiring , mentoring and connecting people, &nbsp;was something that Liubou Minniyeva, a Founder of \"Pitch on the Beach\" was doing quite a lot. Working for a start up who grew up to be a big corporate, Liubou always<span style=\"font-size: 1.25rem; line-height: 1.5;\">&nbsp;</span></p>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP AND PITCH</a> "
         },
         {
           "alias": "purity/components",
@@ -109,7 +75,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -144,7 +110,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -156,6 +122,72 @@
             "google": false
           },
           "text": "Share This Page!"
+        }
+      ]
+    },
+    "Sign up": {
+      "settings": {
+        "title": "Sign up and pitch"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-a",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1368.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Pitch form",
+          "form": {
+            "action": "l.minniyeva@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form! And we are looking forward to see and hear your Pitch on the Beach!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Name of the company"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Pitch "
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "80px"
+            }
+          }
         }
       ]
     }
