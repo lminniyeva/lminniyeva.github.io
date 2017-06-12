@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -31,18 +31,7 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            "H1": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "text-align": "center"
-            },
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          },
-          "_anchor": "header1-0",
+          "_anchor": "header1-b",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -54,17 +43,36 @@
             },
             "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": 0.5,
             "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "showArrow": true
           },
-          "title": "PITCH ON THE BEACH<br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP AND PITCH</a> "
+          "title": "Pitch on the Beach",
+          "text": "<span style=\"line-height: 1.5;\">Tech communities are growing every day, however not everyone is able to keep up with those changes. How to enable the community of tech developers and entrepreneurs listen to the customer needs in a more sustainable calm manner. </span><br><span style=\"line-height: 1.5;\"><br></span><span style=\"line-height: 1.5;\">“Pitch on the beach” is aiming to provide a sense of freedom, and a dream that everything is possible at the optimum time and now it is all about the learning and relationships.&nbsp;</span><br><span style=\"line-height: 1.5;\">Join our 1st edition in the Netherlands or our podcast.<br></span><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\">PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Pre order tickets\" data-toolbar=\"-mbrBtnMove\">PRE-ORDER TICKETS</a>",
+          "_styles": {
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "80px"
+            },
+            "P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            "SPAN": {
+              "font-size": "24px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -127,6 +135,63 @@
               "message": {
                 "title": "Message",
                 "customTitle": "Pitch "
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>"
+        }
+      ]
+    },
+    "Pre order tickets": {
+      "settings": {
+        "title": "Pre order tickets"
+      },
+      "components": [
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Pre-order tickets for only 10 €",
+          "form": {
+            "action": "l.minniyeva@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
               }
             }
           },
