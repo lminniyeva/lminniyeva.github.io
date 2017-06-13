@@ -5,6 +5,7 @@
 
 
 
+
 #header1-b H1 {
   font-family: 'Indie Flower', cursive;
   font-size: 80px;
@@ -43,6 +44,9 @@
 }
 #dropdown-menu-2btn-e .navbar-toggler {
   color: #000000;
+}
+#social-buttons2-h .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
 }
 
 #form1-a .mbr-section-title {
