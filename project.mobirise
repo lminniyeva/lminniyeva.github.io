@@ -50,6 +50,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "color": "#000000",
               "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header1-b",

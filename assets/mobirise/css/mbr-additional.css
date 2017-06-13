@@ -4,6 +4,7 @@
 
 
 
+
 #header1-b H1 {
   font-family: 'Indie Flower', cursive;
   font-size: 80px;
@@ -19,6 +20,9 @@
   font-family: 'Open Sans Condensed', sans-serif;
   color: #000000;
   text-align: center;
+}
+#header1-b .btn {
+  font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-e .hide-buttons [data-button] {
   display: none !important;
