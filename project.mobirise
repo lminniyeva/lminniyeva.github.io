@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "Location",
+    "currentPage": "Pre order tickets",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -347,7 +347,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "Pre-order tickets for only 10 €",
+          "title": "Pre-order tickets for only 10 €<br><i>(ticket incl. 1 drink)</i>",
           "form": {
             "action": "pitchonthebeach@gmail.com",
             "alerts": {
