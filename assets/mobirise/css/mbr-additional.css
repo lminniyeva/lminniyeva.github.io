@@ -87,6 +87,8 @@
 #dropdown-menu-2btn-f .navbar-toggler {
   color: #000000;
 }
+
+
 #dropdown-menu-2btn-k .hide-buttons [data-button] {
   display: none !important;
 }
@@ -106,4 +108,10 @@
 }
 #dropdown-menu-2btn-k .navbar-toggler {
   color: #000000;
+}
+#msg-box4-p .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box4-p .lead P {
+  font-family: 'Oswald', sans-serif;
 }
