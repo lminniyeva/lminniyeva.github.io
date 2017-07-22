@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "index.html",
+    "currentPage": "Location",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -596,7 +596,7 @@
           "title": "<b>Location</b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><a href=\"http://www.tent6.nl/\">Tent6, Zandvoort</a></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Pre order tickets\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
