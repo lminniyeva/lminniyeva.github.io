@@ -135,3 +135,51 @@
 #dropdown-menu-2btn-r .navbar-toggler {
   color: #000000;
 }
+#dropdown-menu-2btn-w .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-w .nav .link,
+#dropdown-menu-2btn-w .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-w .navbar,
+#dropdown-menu-2btn-w .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-w .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-w .dropdown-menu a:hover,
+#dropdown-menu-2btn-w .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-w .navbar-toggler {
+  color: #000000;
+}
+
+#dropdown-menu-2btn-v .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-v .nav .link,
+#dropdown-menu-2btn-v .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-v .navbar,
+#dropdown-menu-2btn-v .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-v .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-v .dropdown-menu a:hover,
+#dropdown-menu-2btn-v .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-v .navbar-toggler {
+  color: #000000;
+}
+#pricing-table1-y DIV {
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+}
+#pricing-table1-y SPAN {
+  font-size: 18px;
+}
