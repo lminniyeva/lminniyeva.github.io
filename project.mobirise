@@ -868,7 +868,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "bgColor": "#FFF8E0",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
