@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "index.html",
+    "currentPage": "The team",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -92,7 +92,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -183,7 +183,7 @@
             "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -244,7 +244,7 @@
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
@@ -389,7 +389,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": false,
@@ -508,7 +508,7 @@
             "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -560,38 +560,6 @@
       },
       "components": [
         {
-          "_inherit": "msg-box1",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": false,
-            "showText": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
-          "title": "One of the Easiest Website Builders",
-          "text": ""
-        },
-        {
           "_inherit": "dropdown-menu",
           "_tags": [
             "Theme"
@@ -640,108 +608,6 @@
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://pitchonthebeach.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PITCHONTHEBEACH</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Order tickets\">ORDER TICKETS</a></li>"
-        },
-        {
-          "_inherit": "gallery1",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "images": [
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-3-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-4-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-4.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-5-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-5.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-7-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-7.jpg"
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-8-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-8.jpg"
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/photo-11-small.jpg",
-                "image": "@PROJECT_PATH@/assets/images/photo-11.jpg",
-                "active": true
-              }
-            ],
-            "showBullets": true
-          },
-          "_anchor": "gallery2-s",
-          "articleLayout": true
-        },
-        {
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
-            }
-          ],
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>",
-              "authorName": "FEDOR",
-              "authorBio": "User"
-            },
-            {
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>",
-              "authorName": "JULIA",
-              "authorBio": "User"
-            },
-            {
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
-              "authorName": "SANDER",
-              "authorBio": "User"
-            }
-          ],
-          "_anchor": "testimonials1-t",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": 3,
-            "showName": true,
-            "showBio": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true
-          },
-          "header": "What Our Fantastic Team Says"
         }
       ]
     },
@@ -812,7 +678,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
