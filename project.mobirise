@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "Location",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -78,7 +78,7 @@
           },
           "title": "Pitch On the Beach&nbsp;<br>",
           "text": "Tech communities emerge on a daily basis. However, not everyone is able to keep up with these changes. How to make tech developers, product, marketers and entrepreneurs listen to the needs of customer in a more sustainable and calm manner? &nbsp;<br> <br>Join our first edition in the Netherlands&nbsp; on the <b>1st of</b> <b>OCTOBER</b> <b>2017 &nbsp;</b><br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\">PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Order tickets\" data-toolbar=\"-mbrBtnMove\">ORDER TICKETS</a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Sign up\" data-toolbar=\"-mbrBtnMove\">PITCH</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://events.guts.tickets/events/11\" data-toolbar=\"-mbrBtnMove\">ORDER TICKETS</a>"
         },
         {
           "alias": "purity/components",
@@ -153,7 +153,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://pitchonthebeach.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PITCHONTHEBEACH</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Order tickets\">ORDER TICKETS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://events.guts.tickets/events/11\">ORDER TICKETS</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -606,7 +606,7 @@
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://pitchonthebeach.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PITCHONTHEBEACH</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"Order tickets\">ORDER TICKETS</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://events.guts.tickets/events/11\">ORDER TICKETS</a></li>"
         },
         {
           "alias": "purity/components",
@@ -614,6 +614,16 @@
             "Theme"
           ],
           "_name": "pricing-table1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "18px"
+            },
+            "SPAN": {
+              "font-size": "18px"
+            }
+          },
           "_anchor": "pricing-table1-y",
           "_params": {
             "paddingTop": 3,
@@ -641,35 +651,25 @@
           "price1": "12.50&nbsp;€",
           "period1": "",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl. </b>&nbsp;1 soft drink (coffee/tea)</li><li class=\"list-group-item\"><b>Incl.&nbsp;</b>&nbsp;1 glass of wine or beer</li><li class=\"list-group-item\"><b>Event entrance</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.ticketkantoor.nl/shop/pitchonthebeach\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "title2": "SURF CLINIC",
           "currency2": "",
           "price2": "12.50 €",
           "period2": "",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b>&nbsp;Surf equipment</li><li class=\"list-group-item\"><b>Unlimited</b> Users</li><li class=\"list-group-item\"><b>Only Valid with Event Only Ticket</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.ticketkantoor.nl/shop/pitchonthebeach\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "title3": "BBQ",
           "currency3": "",
           "price3": "25 €",
           "period3": "",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b>&nbsp;Meat, Veg, Salad, Bread</li><li class=\"list-group-item\"><b>Only Valid with Event Only Ticke<b style=\"line-height: 1.5;\">t</b><br></b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.ticketkantoor.nl/shop/pitchonthebeach\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
           "title4": "All-IN-ONE TICKET",
           "currency4": "42.50 €",
           "price4": "",
           "period4": "",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b> Event Only Ticket</li><li class=\"list-group-item\"><b>Incl.&nbsp;</b> Surf Clinic</li><li class=\"list-group-item\"><b>Incl.</b> BBQ</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.ticketkantoor.nl/shop/pitchonthebeach\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            "SPAN": {
-              "font-size": "18px"
-            }
-          }
+          "button4": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>"
         }
       ]
     }
