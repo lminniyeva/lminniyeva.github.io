@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pitch on the beach",
-    "currentPage": "Order tickets",
+    "currentPage": "Location",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -550,126 +550,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><a href=\"http://www.tent6.nl/\">Tent6, Zandvoort</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Pre order tickets\" data-toolbar=\"-mbrBtnMove\">More</a>"
-        }
-      ]
-    },
-    "Order tickets": {
-      "settings": {
-        "title": "Order tickets"
-      },
-      "components": [
-        {
-          "_inherit": "dropdown-menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#000000"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            }
-          },
-          "_name": "dropdown-menu-2btn",
-          "_anchor": "dropdown-menu-2btn-v",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "images/logo.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://pitchonthebeach.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PITCHONTHEBEACH</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">The team</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Location\">Location</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Sponsors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Order tickets\">ORDER NOW</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact us\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"Sign up\">TO PITCH</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"https://events.guts.tickets/events/11\">ORDER TICKETS</a></li>"
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
-            },
-            "SPAN": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "pricing-table1-y",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "firstType": "bg-primary",
-            "showButtons": true,
-            "secondType": "bg-primary",
-            "thirdType": "bg-primary",
-            "fourthType": "bg-primary"
-          },
-          "title1": "EVENT ONLY TICKET",
-          "currency1": "",
-          "price1": "12.50&nbsp;€",
-          "period1": "",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Event only ticket</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://events.guts.tickets/events/11\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "title2": "SURF CLINIC",
-          "currency2": "",
-          "price2": "17.50 €",
-          "period2": "",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b>&nbsp;Gear</li><li class=\"list-group-item\"><b>Unlimited</b> Instructor</li><li class=\"list-group-item\"><b>Only Valid with Event Only Ticket</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://events.guts.tickets/events/11\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "title3": "BBQ",
-          "currency3": "",
-          "price3": "25 €",
-          "period3": "",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b>&nbsp;Meat, Veg, Salad, Bread</li><li class=\"list-group-item\"><b>Only Valid with Event Only Ticke<b style=\"line-height: 1.5;\">t</b><br></b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://events.guts.tickets/events/11\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>",
-          "title4": "All-IN-ONE TICKET",
-          "currency4": "42.50 €",
-          "price4": "",
-          "period4": "",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Incl.</b> Event Only Ticket</li><li class=\"list-group-item\"><b>Incl.&nbsp;</b> Surf Clinic</li><li class=\"list-group-item\"><b>Incl.</b> BBQ</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://events.guts.tickets/events/11\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">ORDER</a>"
         }
       ]
     }
